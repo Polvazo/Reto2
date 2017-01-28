@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#99050505</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="top">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="formulario">#FFFFFF</color>
+    <color name="Boton">#00EE00</color>
+</resources>

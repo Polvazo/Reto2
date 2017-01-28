@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="registro">Buscar Registro</string>
+    <string name="nombre">Escribe Nombre</string>
+    <string name="apellido">Escribe Apellido</string>
+    <string name="edad">Escribe Edad</string>
+    <string name="dni">Escribe DNI</string>
+    <string name="registrar">Registrar Usuario</string>
+    <string name="boton">Registrar</string>
+    <string name="buscar">Buscar por DNI</string>
+</resources>
