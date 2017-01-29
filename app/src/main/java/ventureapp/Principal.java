@@ -1,10 +1,10 @@
-package ventureapp.registro;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+
+import ventureapp.registro.R;
 
 public class Principal extends AppCompatActivity {
 
